@@ -1,0 +1,13 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "to_be_or_not_to_be.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --open=index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
